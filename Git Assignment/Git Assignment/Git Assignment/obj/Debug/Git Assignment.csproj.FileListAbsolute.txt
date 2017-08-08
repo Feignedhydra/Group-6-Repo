@@ -1,0 +1,37 @@
+E:\324\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.pdb
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csprojResolveAssemblyReference.cache
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.frmGitAssignment.resources
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Properties.Resources.resources
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csprojResolveAssemblyReference.cache
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Chantel.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.frmGitAssignment.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Properties.Resources.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe
+E:\324\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.pdb
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.pdb
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csprojResolveAssemblyReference.cache
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Chantel.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.frmGitAssignment.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Properties.Resources.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
+E:\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
