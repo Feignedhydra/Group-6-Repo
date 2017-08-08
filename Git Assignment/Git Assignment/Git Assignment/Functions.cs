@@ -62,5 +62,17 @@ namespace Git_Assignment
 
             MessageBox.Show(Convert.ToString(Math.Round(Median)));
         }
+
+        private void btnMean_Click(object sender, EventArgs e)
+        {
+            int total = 0;
+            int size = array.Length;
+            foreach (int x in array)
+            {
+               total = total + x;           
+            }
+            double answer = total / size;
+            MessageBox.Show("" + answer);
+        }
     }
 }

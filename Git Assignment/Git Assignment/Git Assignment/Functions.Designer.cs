@@ -84,6 +84,7 @@
             this.btnMean.TabIndex = 4;
             this.btnMean.Text = "Mean";
             this.btnMean.UseVisualStyleBackColor = true;
+            this.btnMean.Click += new System.EventHandler(this.btnMean_Click);
             // 
             // btnMedian
             // 
