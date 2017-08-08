@@ -46,5 +46,21 @@ namespace Git_Assignment
         {
             MessageBox.Show(Convert.ToString("The max value is " + array.Max()));
         }
+
+        private void btnMedian_Click(object sender, EventArgs e)
+        {
+            Array.Sort(array);
+            decimal Median = 0;
+            
+            int size = array.Length;
+            
+         int mid = size / 2;
+            
+        Median = (size % 2 != 0) ? (decimal)array[mid] : ((decimal)array[mid] + (decimal)array[mid + 1]) / 2;
+         
+         Convert.ToInt32(Math.Round(Median));
+
+            MessageBox.Show(Convert.ToString(Math.Round(Median)));
+        }
     }
 }

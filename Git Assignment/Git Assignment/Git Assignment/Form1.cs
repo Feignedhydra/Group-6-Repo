@@ -35,5 +35,11 @@ namespace Git_Assignment
             Chantel BioChantel = new Chantel();
             BioChantel.Show();
         }
+
+        private void btnQuinten_Click(object sender, EventArgs e)
+        {
+            Quinten BioQuinten = new Quinten();
+            BioQuinten.Show();
+        }
     }
 }

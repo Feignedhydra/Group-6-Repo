@@ -92,6 +92,7 @@
             this.btnQuinten.TabIndex = 5;
             this.btnQuinten.Text = "Quinten Crawford";
             this.btnQuinten.UseVisualStyleBackColor = true;
+            this.btnQuinten.Click += new System.EventHandler(this.btnQuinten_Click);
             // 
             // frmGitAssignment
             // 
