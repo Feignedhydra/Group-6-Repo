@@ -83,6 +83,7 @@ namespace Git_Assignment
                total = total + x;           
             }
             double answer = total / size;
+            globalMean = answer;
             MessageBox.Show("" + answer);
         }
 
