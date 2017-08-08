@@ -54,6 +54,7 @@
             this.btnMuller.TabIndex = 1;
             this.btnMuller.Text = "Muller van As";
             this.btnMuller.UseVisualStyleBackColor = true;
+            this.btnMuller.Click += new System.EventHandler(this.btnMuller_Click);
             // 
             // btnArmand
             // 

@@ -41,5 +41,11 @@ namespace Git_Assignment
             Quinten BioQuinten = new Quinten();
             BioQuinten.Show();
         }
+
+        private void btnMuller_Click(object sender, EventArgs e)
+        {
+            Muller BioMuller = new Muller();
+            BioMuller.Show();
+        }
     }
 }
