@@ -64,6 +64,7 @@
             this.btnArmand.TabIndex = 2;
             this.btnArmand.Text = "Armand Havenga";
             this.btnArmand.UseVisualStyleBackColor = true;
+            this.btnArmand.Click += new System.EventHandler(this.btnArmand_Click);
             // 
             // btnFunctions
             // 
