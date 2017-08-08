@@ -98,11 +98,12 @@ namespace Git_Assignment
 
         private void btnStandard_Click(object sender, EventArgs e)
         {
-            if(btnClicked==true)
+            if (btnClicked==true)
             {
+                double[] standerdArray;
+                standerdArray = new double[Convert.ToInt16(tbxArray.Text)];
+                
                 double totalResults = 0;
-                double theMean = globalMean;
-
 
 
             }
