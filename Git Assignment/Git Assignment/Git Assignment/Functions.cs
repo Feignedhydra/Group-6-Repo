@@ -69,27 +69,32 @@ namespace Git_Assignment
          
          Convert.ToInt32(Math.Round(Median));
 
-            MessageBox.Show(Convert.ToString(Math.Round(Median)));
+         MessageBox.Show(Convert.ToString(Math.Round(Median)));
         }
 
         private void mean()
         {
+            //Initialize and create variables
             double total = 0;
             double size = array.Length;
             //Added boolean to test if button was clicked
             btnClicked = true;
 
+            //Count total of the array
             foreach (double x in array)
             {
                 total = total + x;
             }
+
+            //Calculate the mean value by using total diveded by size
             double answer = total / size;
-            globalMean = answer;
+            //Output to user
             MessageBox.Show("" + answer);
         }
 
         private void btnMean_Click(object sender, EventArgs e)
         {
+            //Method instead of using several lines of code
             mean();
         }
 
@@ -145,6 +150,7 @@ namespace Git_Assignment
             }
             else
             {
+                //Method instead of using several lines of code
                 mean();
             }
         }
