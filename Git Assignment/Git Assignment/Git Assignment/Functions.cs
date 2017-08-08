@@ -20,6 +20,7 @@ namespace Git_Assignment
         }
 
         bool btnClicked = false;
+        double globalMean = 0;
 
         Random randm = new Random();
         string output;
