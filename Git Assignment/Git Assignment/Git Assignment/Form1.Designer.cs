@@ -44,6 +44,7 @@
             this.btnWerner.TabIndex = 0;
             this.btnWerner.Text = "Werner Alberts";
             this.btnWerner.UseVisualStyleBackColor = true;
+            this.btnWerner.Click += new System.EventHandler(this.btnWerner_Click);
             // 
             // btnMuller
             // 

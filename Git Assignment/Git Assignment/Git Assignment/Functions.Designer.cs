@@ -1,6 +1,6 @@
 ﻿namespace Git_Assignment
 {
-    partial class Werner
+    partial class Functions
     {
         /// <summary>
         /// Required designer variable.
@@ -28,32 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.rtbxWerner = new System.Windows.Forms.RichTextBox();
-            this.SuspendLayout();
-            // 
-            // rtbxWerner
-            // 
-            this.rtbxWerner.Location = new System.Drawing.Point(12, 12);
-            this.rtbxWerner.Name = "rtbxWerner";
-            this.rtbxWerner.Size = new System.Drawing.Size(260, 238);
-            this.rtbxWerner.TabIndex = 0;
-            this.rtbxWerner.Text = "";
-            this.rtbxWerner.TextChanged += new System.EventHandler(this.rtbxWerner_TextChanged);
-            // 
-            // Werner
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Controls.Add(this.rtbxWerner);
-            this.Name = "Werner";
-            this.Text = "Werner";
-            this.ResumeLayout(false);
-
+            this.Text = "Functions";
         }
 
         #endregion
-
-        private System.Windows.Forms.RichTextBox rtbxWerner;
     }
 }

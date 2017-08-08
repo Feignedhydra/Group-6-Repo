@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace Git_Assignment
 {
-    public partial class frmGitAssignment : Form
+    public partial class Functions : Form
     {
-        public frmGitAssignment()
+        public Functions()
         {
             InitializeComponent();
-            
-        }
-
-        private void btnWerner_Click(object sender, EventArgs e)
-        {
-            Werner BioWerner = new Werner();
-            BioWerner.Show();
         }
     }
 }
