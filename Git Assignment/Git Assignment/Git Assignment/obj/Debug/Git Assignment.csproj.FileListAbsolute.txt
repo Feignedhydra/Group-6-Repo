@@ -49,3 +49,6 @@ C:\Users\Student\Desktop\ITRW325 Repo\Group-6-Repo\Git Assignment\Git Assignment
 C:\Users\Student\Desktop\ITRW325 Repo\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
 C:\Users\Student\Desktop\ITRW325 Repo\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
 C:\Users\Student\Desktop\ITRW325 Repo\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
+D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
