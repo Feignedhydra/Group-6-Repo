@@ -16,13 +16,14 @@ namespace Git_Assignment
         int[] array;
         public Functions()
         {
-            InitializeComponent();
-
-           
+            InitializeComponent();           
         }
- 
-            Random randm = new Random();
-            string output;
+
+        bool btnClicked = false;
+
+        Random randm = new Random();
+        string output;
+
         private void btnCalculate_Click(object sender, EventArgs e)
         {
             int test = 0;
@@ -60,11 +61,10 @@ namespace Git_Assignment
             Array.Sort(array);
             decimal Median = 0;
             
-            int size = array.Length;
+            int size = array.Length;            
+            int mid = size / 2;
             
-         int mid = size / 2;
-            
-        Median = (size % 2 != 0) ? (decimal)array[mid] : ((decimal)array[mid] + (decimal)array[mid + 1]) / 2;
+            Median = (size % 2 != 0) ? (decimal)array[mid] : ((decimal)array[mid] + (decimal)array[mid + 1]) / 2;
          
          Convert.ToInt32(Math.Round(Median));
 
@@ -75,12 +75,19 @@ namespace Git_Assignment
         {
             int total = 0;
             int size = array.Length;
+            btnClicked = true;
+
             foreach (int x in array)
             {
                total = total + x;           
             }
             double answer = total / size;
             MessageBox.Show("" + answer);
+        }
+
+        private void btnStandard_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

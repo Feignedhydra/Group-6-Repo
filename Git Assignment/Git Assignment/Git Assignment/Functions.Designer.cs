@@ -49,12 +49,13 @@
             // 
             // btnStandard
             // 
-            this.btnStandard.Location = new System.Drawing.Point(93, 60);
+            this.btnStandard.Location = new System.Drawing.Point(93, 108);
             this.btnStandard.Name = "btnStandard";
             this.btnStandard.Size = new System.Drawing.Size(75, 42);
             this.btnStandard.TabIndex = 1;
             this.btnStandard.Text = "Standard Deviation";
             this.btnStandard.UseVisualStyleBackColor = true;
+            this.btnStandard.Click += new System.EventHandler(this.btnStandard_Click);
             // 
             // btnMin
             // 
@@ -78,7 +79,7 @@
             // 
             // btnMean
             // 
-            this.btnMean.Location = new System.Drawing.Point(93, 108);
+            this.btnMean.Location = new System.Drawing.Point(93, 60);
             this.btnMean.Name = "btnMean";
             this.btnMean.Size = new System.Drawing.Size(75, 42);
             this.btnMean.TabIndex = 4;
