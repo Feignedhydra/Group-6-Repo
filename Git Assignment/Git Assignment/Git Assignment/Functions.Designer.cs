@@ -74,6 +74,7 @@
             this.btnMax.TabIndex = 3;
             this.btnMax.Text = "Max";
             this.btnMax.UseVisualStyleBackColor = true;
+            this.btnMax.Click += new System.EventHandler(this.btnMax_Click);
             // 
             // btnMean
             // 

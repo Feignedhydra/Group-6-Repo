@@ -82,6 +82,7 @@
             this.btnChantel.TabIndex = 4;
             this.btnChantel.Text = "Chantel Damon";
             this.btnChantel.UseVisualStyleBackColor = true;
+            this.btnChantel.Click += new System.EventHandler(this.btnChantel_Click);
             // 
             // btnQuinten
             // 
