@@ -145,8 +145,7 @@ namespace Git_Assignment
             }
             else
             {
-                //Give output to the user
-                MessageBox.Show("Please click on the mean button first to get your mean, before trying to get the Standard Deviation","Error! - Missing Mean",MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                mean();
             }
         }
     }
