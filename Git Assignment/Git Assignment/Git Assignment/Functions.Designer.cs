@@ -74,6 +74,7 @@
             this.btnMax.TabIndex = 3;
             this.btnMax.Text = "Max";
             this.btnMax.UseVisualStyleBackColor = true;
+            this.btnMax.Click += new System.EventHandler(this.btnMax_Click);
             // 
             // btnMean
             // 
@@ -83,6 +84,7 @@
             this.btnMean.TabIndex = 4;
             this.btnMean.Text = "Mean";
             this.btnMean.UseVisualStyleBackColor = true;
+            this.btnMean.Click += new System.EventHandler(this.btnMean_Click);
             // 
             // btnMedian
             // 
@@ -92,6 +94,7 @@
             this.btnMedian.TabIndex = 4;
             this.btnMedian.Text = "Median";
             this.btnMedian.UseVisualStyleBackColor = true;
+            this.btnMedian.Click += new System.EventHandler(this.btnMedian_Click);
             // 
             // tbxArray
             // 

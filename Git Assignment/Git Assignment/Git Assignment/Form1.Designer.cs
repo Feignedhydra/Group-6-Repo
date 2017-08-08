@@ -54,6 +54,7 @@
             this.btnMuller.TabIndex = 1;
             this.btnMuller.Text = "Muller van As";
             this.btnMuller.UseVisualStyleBackColor = true;
+            this.btnMuller.Click += new System.EventHandler(this.btnMuller_Click);
             // 
             // btnArmand
             // 
@@ -82,6 +83,7 @@
             this.btnChantel.TabIndex = 4;
             this.btnChantel.Text = "Chantel Damon";
             this.btnChantel.UseVisualStyleBackColor = true;
+            this.btnChantel.Click += new System.EventHandler(this.btnChantel_Click);
             // 
             // btnQuinten
             // 
@@ -91,6 +93,7 @@
             this.btnQuinten.TabIndex = 5;
             this.btnQuinten.Text = "Quinten Crawford";
             this.btnQuinten.UseVisualStyleBackColor = true;
+            this.btnQuinten.Click += new System.EventHandler(this.btnQuinten_Click);
             // 
             // frmGitAssignment
             // 

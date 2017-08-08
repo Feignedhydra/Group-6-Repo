@@ -29,5 +29,23 @@ namespace Git_Assignment
             Functions func = new Functions();
             func.Show();
         }
+
+        private void btnChantel_Click(object sender, EventArgs e)
+        {
+            Chantel BioChantel = new Chantel();
+            BioChantel.Show();
+        }
+
+        private void btnQuinten_Click(object sender, EventArgs e)
+        {
+            Quinten BioQuinten = new Quinten();
+            BioQuinten.Show();
+        }
+
+        private void btnMuller_Click(object sender, EventArgs e)
+        {
+            Muller BioMuller = new Muller();
+            BioMuller.Show();
+        }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Git_Assignment
 {
-    partial class Werner
+    partial class Muller
     {
         /// <summary>
         /// Required designer variable.
@@ -28,33 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.rtbxWerner = new System.Windows.Forms.RichTextBox();
+            this.rtbxMuller = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // rtbxWerner
+            // rtbxMuller
             // 
-            this.rtbxWerner.Location = new System.Drawing.Point(12, 12);
-            this.rtbxWerner.Name = "rtbxWerner";
-            this.rtbxWerner.Size = new System.Drawing.Size(260, 238);
-            this.rtbxWerner.TabIndex = 0;
-            this.rtbxWerner.Text = "";
-            this.rtbxWerner.TextChanged += new System.EventHandler(this.rtbxWerner_TextChanged);
+            this.rtbxMuller.Location = new System.Drawing.Point(44, 45);
+            this.rtbxMuller.Name = "rtbxMuller";
+            this.rtbxMuller.Size = new System.Drawing.Size(376, 320);
+            this.rtbxMuller.TabIndex = 0;
+            this.rtbxMuller.Text = "";
             // 
-            // Werner
+            // Muller
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Controls.Add(this.rtbxWerner);
-            this.Name = "Werner";
-            this.Text = "Werner";
-            this.Load += new System.EventHandler(this.Werner_Load);
+            this.ClientSize = new System.Drawing.Size(487, 454);
+            this.Controls.Add(this.rtbxMuller);
+            this.Name = "Muller";
+            this.Text = "Muller";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox rtbxWerner;
+        private System.Windows.Forms.RichTextBox rtbxMuller;
     }
 }
