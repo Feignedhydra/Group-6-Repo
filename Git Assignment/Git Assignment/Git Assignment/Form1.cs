@@ -47,5 +47,11 @@ namespace Git_Assignment
             Muller BioMuller = new Muller();
             BioMuller.Show();
         }
+
+        private void btnArmand_Click(object sender, EventArgs e)
+        {
+            Armand BioArmand = new Armand();
+            BioArmand.Show();
+        }
     }
 }

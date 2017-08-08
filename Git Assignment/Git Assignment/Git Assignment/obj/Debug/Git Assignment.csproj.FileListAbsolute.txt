@@ -63,3 +63,18 @@ D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\o
 D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
 D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
 D:\ITRW 324\Main Git\Group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.pdb
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Armand.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Chantel.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.frmGitAssignment.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Muller.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Properties.Resources.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
+C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
