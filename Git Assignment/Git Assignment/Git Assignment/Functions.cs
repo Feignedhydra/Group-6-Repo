@@ -87,6 +87,15 @@ namespace Git_Assignment
             MessageBox.Show("" + answer);
         }
 
+        //This class subtracts the mean from the value received
+        public double subMean(double theValue)
+        {
+            double result = 0;
+            result = Math.Pow((theValue - globalMean), 2);
+
+            return result;
+        }
+
         private void btnStandard_Click(object sender, EventArgs e)
         {
             if(btnClicked==true)
