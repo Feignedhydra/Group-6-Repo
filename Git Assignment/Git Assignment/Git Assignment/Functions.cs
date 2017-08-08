@@ -41,5 +41,10 @@ namespace Git_Assignment
         {
            MessageBox.Show( Convert.ToString("The min value is " + array.Min()));
         }
+
+        private void btnMax_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(Convert.ToString("The max value is " + array.Max()));
+        }
     }
 }

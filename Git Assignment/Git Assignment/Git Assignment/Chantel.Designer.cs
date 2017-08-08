@@ -1,6 +1,6 @@
 ﻿namespace Git_Assignment
 {
-    partial class Werner
+    partial class Chantel
     {
         /// <summary>
         /// Required designer variable.
@@ -28,33 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.rtbxWerner = new System.Windows.Forms.RichTextBox();
+            this.rtbxChantel = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // rtbxWerner
+            // rtbxChantel
             // 
-            this.rtbxWerner.Location = new System.Drawing.Point(12, 12);
-            this.rtbxWerner.Name = "rtbxWerner";
-            this.rtbxWerner.Size = new System.Drawing.Size(260, 238);
-            this.rtbxWerner.TabIndex = 0;
-            this.rtbxWerner.Text = "";
-            this.rtbxWerner.TextChanged += new System.EventHandler(this.rtbxWerner_TextChanged);
+            this.rtbxChantel.Location = new System.Drawing.Point(12, 12);
+            this.rtbxChantel.Name = "rtbxChantel";
+            this.rtbxChantel.Size = new System.Drawing.Size(260, 238);
+            this.rtbxChantel.TabIndex = 0;
+            this.rtbxChantel.Text = "";
             // 
-            // Werner
+            // Chantel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Controls.Add(this.rtbxWerner);
-            this.Name = "Werner";
-            this.Text = "Werner";
-            this.Load += new System.EventHandler(this.Werner_Load);
+            this.Controls.Add(this.rtbxChantel);
+            this.Name = "Chantel";
+            this.Text = "Chantel";
+            this.Load += new System.EventHandler(this.Chantel_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox rtbxWerner;
+        private System.Windows.Forms.RichTextBox rtbxChantel;
     }
 }
