@@ -91,6 +91,10 @@ namespace Git_Assignment
         {
             if(btnClicked==true)
             {
+                double totalResults = 0;
+                double theMean = globalMean;
+
+
 
             }
             else
