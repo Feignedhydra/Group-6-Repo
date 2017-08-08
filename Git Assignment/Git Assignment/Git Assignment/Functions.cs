@@ -25,16 +25,24 @@ namespace Git_Assignment
             string output;
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            
-            array = new int[Convert.ToInt16(tbxArray.Text)];
-            Array.Clear(array,0, array.Length);
-            output = "";
-            for (int i = 0; i < array.Length; i++)
+            int test = 0;
+            test = Convert.ToInt32(tbxArray.Text);
+            if (test > 4 && test < 21)
             {
-                array[i] = randm.Next(5, 20);
-                output += array[i] + "\n";
-            } 
-            MessageBox.Show(output);
+                array = new int[Convert.ToInt16(tbxArray.Text)];
+                Array.Clear(array, 0, array.Length);
+                output = "";
+                for (int i = 0; i < array.Length; i++)
+                {
+                    array[i] = randm.Next(5, 20);
+                    output += array[i] + "\n";
+                }
+                MessageBox.Show(output);
+            }
+            else
+            {
+                MessageBox.Show("Please enter a number between 5 and 20");
+            }
         }
         #endregion
         private void btnMin_Click(object sender, EventArgs e)
