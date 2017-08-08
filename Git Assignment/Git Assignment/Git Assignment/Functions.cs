@@ -87,7 +87,14 @@ namespace Git_Assignment
 
         private void btnStandard_Click(object sender, EventArgs e)
         {
+            if(btnClicked==true)
+            {
 
+            }
+            else
+            {
+                MessageBox.Show("Please click on the mean button first to get your mean, before trying to get the Standard Deviation","Error! - Missing Mean",MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
     }
 }
