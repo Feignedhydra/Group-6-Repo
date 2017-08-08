@@ -72,20 +72,25 @@ namespace Git_Assignment
             MessageBox.Show(Convert.ToString(Math.Round(Median)));
         }
 
-        private void btnMean_Click(object sender, EventArgs e)
+        private void mean()
         {
-            int total = 0;
-            int size = array.Length;
+            double total = 0;
+            double size = array.Length;
             //Added boolean to test if button was clicked
             btnClicked = true;
 
-            foreach (int x in array)
+            foreach (double x in array)
             {
-               total = total + x;           
+                total = total + x;
             }
             double answer = total / size;
             globalMean = answer;
             MessageBox.Show("" + answer);
+        }
+
+        private void btnMean_Click(object sender, EventArgs e)
+        {
+            mean();
         }
 
         //This class subtracts the mean from the value received
