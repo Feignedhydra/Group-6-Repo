@@ -9,3 +9,4 @@ E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\De
 E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
 E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
 E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+E:\ITRW 324\Git\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources

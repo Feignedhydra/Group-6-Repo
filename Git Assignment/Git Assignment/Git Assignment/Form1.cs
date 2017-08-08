@@ -23,5 +23,11 @@ namespace Git_Assignment
             Werner BioWerner = new Werner();
             BioWerner.Show();
         }
+
+        private void btnFunctions_Click(object sender, EventArgs e)
+        {
+            Functions func = new Functions();
+            func.Show();
+        }
     }
 }

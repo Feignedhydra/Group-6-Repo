@@ -72,6 +72,7 @@
             this.btnFunctions.TabIndex = 3;
             this.btnFunctions.Text = "Functions";
             this.btnFunctions.UseVisualStyleBackColor = true;
+            this.btnFunctions.Click += new System.EventHandler(this.btnFunctions_Click);
             // 
             // btnChantel
             // 
