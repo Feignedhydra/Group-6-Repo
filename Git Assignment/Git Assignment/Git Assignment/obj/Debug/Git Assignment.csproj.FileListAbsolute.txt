@@ -78,3 +78,18 @@ C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\
 C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
 C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
 C:\Users\Arclight\Documents\Graphics\Group-6-Repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe.config
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.exe
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.pdb
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.exe
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\bin\Debug\Git Assignment.pdb
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Armand.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Chantel.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.frmGitAssignment.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Functions.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Muller.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Properties.Resources.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Quinten.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git_Assignment.Werner.resources
+C:\Users\Student\Desktop\Git\group-6-repo\Git Assignment\Git Assignment\Git Assignment\obj\Debug\Git Assignment.csproj.GenerateResource.Cache
