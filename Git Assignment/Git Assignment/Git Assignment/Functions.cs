@@ -49,12 +49,12 @@ namespace Git_Assignment
         #endregion
         private void btnMin_Click(object sender, EventArgs e)
         {
-           MessageBox.Show( Convert.ToString("The min value is " + array.Min()));
+           MessageBox.Show( Convert.ToString("The min value = " + array.Min()));
         }
 
         private void btnMax_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Convert.ToString("The max value is " + array.Max()));
+            MessageBox.Show(Convert.ToString("The max value = " + array.Max()));
         }
 
         private void btnMedian_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace Git_Assignment
          
          Convert.ToInt32(Math.Round(Median));
 
-         MessageBox.Show(Convert.ToString(Math.Round(Median)));
+         MessageBox.Show("The Median is equals to " + Convert.ToString(Math.Round(Median)));
         }
 
         private void mean()
